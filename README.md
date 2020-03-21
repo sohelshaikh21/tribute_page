@@ -1,6 +1,6 @@
 # Tribute Page
 
-### This is a first Web Project required to be completed by FCC.
+### This is a first Web Project required to be completed by FCC (FreeCodeCamp).
 
 #### Here are the user stories completed by me : 
 
@@ -9,3 +9,4 @@
 #### User Story #3: I should see a div element with a corresponding id="img-div".
 #### User Story #4: Within the img-div element, I should see an img element with a corresponding id="image".
 #### User Story #5: Within the img-div element, I should see an element with a corresponding id="img-caption" that contains textual content describing the image shown in img-div.
+#### User Story #6: I should see an element with a corresponding id="tribute-info", which contains textual content describing the subject of the tribute page.

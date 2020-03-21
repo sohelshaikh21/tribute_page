@@ -1,8 +1,15 @@
+body
+{
+    font-family:'Roboto Mono', monospace;
+    font-size:16px;
+    margin:0;
+}
 #title
 {
     text-align: center;
     background-color: teal;
     color:white;
+    font-size:200%;
     width:50%;
     margin:0 auto;
 }
@@ -11,9 +18,35 @@
     width:300px;
     height: 300px;
     margin: 0 auto;
+    margin-bottom:12%;
 }
 #image
 {
     max-width:100%;
     height:auto;
+}
+#tribute-info
+{
+    margin:0 auto;
+    text-align: justify;
+    color:black;
+    background-color:#ecf0f1;
+}
+#timeline-list
+{
+    margin:0 auto;
+    display:table;
+}
+.timeline-year
+{
+    font-weight:bold;
+}
+.sub_heading
+{
+    font-size:120%;
+    text-align: center;
+}
+.timeline-item
+{
+    margin:3%;
 }
