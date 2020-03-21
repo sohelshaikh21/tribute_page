@@ -18,7 +18,7 @@ body
     width:300px;
     height: 300px;
     margin: 0 auto;
-    margin-bottom:12%;
+    margin-bottom:15%;
 }
 #image
 {
@@ -31,11 +31,33 @@ body
     text-align: justify;
     color:black;
     background-color:#ecf0f1;
+    width:800px;
+}
+#tribute-footer
+{
+    margin:0 auto;
+    width:800px;
 }
 #timeline-list
 {
     margin:0 auto;
     display:table;
+}
+#tribute-quote
+{
+    margin:0 auto;
+    width:800px;
+    background-color:#eff4ff;
+}
+#quote-text
+{
+    text-align:center;
+}
+#quote-author
+{
+    font-weight: bold;
+    font-style: oblique;
+    text-align: center;
 }
 .timeline-year
 {
